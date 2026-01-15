@@ -1,0 +1,88 @@
+# ===== 三合一订阅 · 含简单防盗 =====
+# 使用说明：
+# 1. 本文件本身作为唯一订阅入口
+# 2. 通过 proxy-providers 聚合 3 个订阅
+# 3. 防盗方式：User-Agent + token 参数（基础版）
+
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+
+proxy-providers:
+  baofengxue:
+    type: http
+    url: https://raw.githubusercontent.com/Qfask/-/main/暴风雪.txt?token=bfy2026
+    interval: 3600
+    path: ./providers/baofengxue.yaml
+    header:
+      User-Agent: ClashMeta
+
+  topairport:
+    type: http
+    url: https://raw.githubusercontent.com/Qfask/-/main/顶级机场.txt?token=top2026
+    interval: 3600
+    path: ./providers/topairport.yaml
+    header:
+      User-Agent: ClashMeta
+
+  renzhe:
+    type: http
+    url: https://raw.githubusercontent.com/Qfask/-/main/RenzheCloud_Clash.yaml?token=rz2026
+    interval: 3600
+    path: ./providers/renzhe.yaml
+    header:
+      User-Agent: ClashMeta
+
+proxy-groups:
+  - name: 🧩 全部节点
+    type: select
+    use:
+      - baofengxue
+      - topairport
+      - renzhe
+
+  - name: ♻️ 自动延迟
+    type: url-test
+    use:
+      - baofengxue
+      - topairport
+      - renzhe
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+
+  - name: 🇺🇸 美国
+    type: select
+    use:
+      - baofengxue
+      - topairport
+      - renzhe
+    filter: (?i)US|美国|United
+
+  - name: 🇸🇬 新加坡
+    type: select
+    use:
+      - baofengxue
+      - topairport
+      - renzhe
+    filter: (?i)SG|新加坡|Singapore
+
+  - name: 🇯🇵 日本
+    type: select
+    use:
+      - baofengxue
+      - topairport
+      - renzhe
+    filter: (?i)JP|日本|Japan
+
+  - name: 🇭🇰 香港
+    type: select
+    use:
+      - baofengxue
+      - topairport
+      - renzhe
+    filter: (?i)HK|香港|Hong
+
+rules:
+  - MATCH,♻️ 自动延迟
