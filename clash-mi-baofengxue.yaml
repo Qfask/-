@@ -1,0 +1,52 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: info
+
+proxy-providers:
+  baofengxue:
+    type: http
+    url: https://raw.githubusercontent.com/Qfask/-/main/%E6%9A%B4%E9%A3%8E%E9%9B%AA.txt
+    interval: 3600
+    path: ./providers/baofengxue.yaml
+
+proxy-groups:
+  - name: 🚀 手动选择
+    type: select
+    use:
+      - baofengxue
+
+  - name: ♻️ 自动延迟
+    type: url-test
+    use:
+      - baofengxue
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+
+  - name: 🇭🇰 香港
+    type: select
+    filter: "(?i)HK|Hong Kong|香港"
+    use:
+      - baofengxue
+
+  - name: 🇯🇵 日本
+    type: select
+    filter: "(?i)JP|Japan|日本"
+    use:
+      - baofengxue
+
+  - name: 🇸🇬 新加坡
+    type: select
+    filter: "(?i)SG|Singapore|新加坡"
+    use:
+      - baofengxue
+
+  - name: 🇺🇸 美国
+    type: select
+    filter: "(?i)US|United States|美国"
+    use:
+      - baofengxue
+
+rules:
+  - MATCH,🚀 手动选择
