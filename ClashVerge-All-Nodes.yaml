@@ -1,0 +1,2471 @@
+allow-lan: true
+log-level: info
+mixed-port: 7890
+mode: rule
+proxies:
+- cipher: rc4-md5
+  name: Premium|台湾|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3026
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|台湾|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3036
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|台湾|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3046
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|台湾|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3056
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|新加坡|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6606
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|新加坡|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6607
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|新加坡|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6608
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|新加坡|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6609
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4600
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4601
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4602
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4603
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|05
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4604
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|06
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4605
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|07
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4606
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|08
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4607
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|09
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4608
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|日本|IEPL|10
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4609
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|美国|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5608
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|美国|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5609
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|美国|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5610
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|美国|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5611
+  server: pr3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3600
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3601
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3602
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3603
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|05
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3604
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|06
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3605
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|07
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3606
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|08
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3607
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|09
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3608
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Premium|香港|IEPL|10
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3609
+  server: pr1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|台湾|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3026
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|台湾|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3036
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|台湾|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3046
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|台湾|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3056
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|新加坡|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6600
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|新加坡|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6601
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|新加坡|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6602
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|新加坡|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6603
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|新加坡|IEPL|05
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6604
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|新加坡|IEPL|06
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 6605
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4600
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4601
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4602
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4603
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|05
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4604
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|06
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4605
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|07
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4606
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|08
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4607
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|09
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4608
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|日本|IEPL|10
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 4609
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|美国|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5600
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|美国|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5601
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|美国|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5602
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|美国|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5603
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|美国|IEPL|05
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5604
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|美国|IEPL|06
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 5605
+  server: bs3.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|01
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3600
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|02
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3601
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|03
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3602
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|04
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3603
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|05
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3604
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|06
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3605
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|07
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3606
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|08
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3607
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|09
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3608
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: Standard|香港|IEPL|10
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 3609
+  server: bs1.jymzffbquawl.com
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: 海外用户专用-新加坡
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 63257
+  server: f-sg-01.ninjanode.pro
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: 海外用户专用-日本
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 63257
+  server: f-jp-01.ninjanode.pro
+  type: ss
+  udp: true
+- cipher: rc4-md5
+  name: 海外用户专用-美国
+  password: RenzheCloudSS
+  plugin: obfs
+  plugin-opts:
+    host: df30f299369.microsoft.com
+    mode: http
+  port: 63257
+  server: f-us-01.ninjanode.pro
+  type: ss
+  udp: true
+- name: https://t.me/zyzzzoao ⚡️
+  password: f36f4495b4b26cc2fe346cfa23e05b1b
+  port: 443
+  server: 58.152.18.147
+  sni: www.nintendogames.net
+  type: trojan
+- cipher: aes-256-cfb
+  name: https://t.me/zyzzzoao ⚡️_1
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 185.231.233.112
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: https://t.me/zyzzzoao ⚡️_2
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 39985
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: https://t.me/zyzzzoao ⚡️_3
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 40011
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: https://t.me/zyzzzoao ⚡️_4
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 12981
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- name: 🇩🇪DE_13 | ⬇️ 1.8MB/s
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ''
+  server: 51.250.16.101
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇷🇺RU_1 | ⬇️ 5.0MB/s
+  network: tcp
+  port: 4248
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.25.172
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- cipher: 2022-blake3-aes-256-gcm
+  name: 🇯🇵JP_13 | ⬇️ 3.0MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNjE5OWQyNDYxZjM1MjA0OTg=:OTliYjg3ODYtNjQ2MC00NDcyLWE4OWMtYmZlODNkZmQ=
+  port: 40020
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- name: 🇸🇪SE_1 | ⬇️ 3.8MB/s
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ''
+  server: 51.250.28.8
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇵🇱PL_2 | ⬇️ 5.0MB/s
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ''
+  server: 51.250.28.232
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇩🇪DE_7 | ⬇️ 1.9MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 39987
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇰🇷KR_6 | ⬇️ 2.9MB/s
+  password: NjVhMWE2YmVmNzg4MTcwMA==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 20116
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇸🇬SG_12 | ⬇️ 2.5MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 40013
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- name: 🇺🇸US_1 | ⬇️ 7.6MB/s
+  password: A8069A5B-E992-44E8-917E-7246CFD19F61
+  port: 443
+  server: us8.dexlos.com
+  sni: us8.dexlos.com
+  type: hysteria2
+- name: 🇺🇸US_4 | ⬇️ 5.8MB/s
+  password: A8069A5B-E992-44E8-917E-7246CFD19F61
+  port: 443
+  server: us3.dexlos.com
+  sni: us3.dexlos.com
+  type: hysteria2
+- name: 🇺🇸US_3 | ⬇️ 7.4MB/s
+  password: A8069A5B-E992-44E8-917E-7246CFD19F61
+  port: 443
+  server: us6.dexlos.com
+  sni: us6.dexlos.com
+  type: hysteria2
+- name: 🇹🇭TH_3 | ⬇️ 2.4MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 30000
+  server: th1.jueduibupao.top
+  sni: th1.jueduibupao.top
+  type: hysteria2
+- name: 🇺🇸US_7 | ⬇️ 6.6MB/s
+  password: A8069A5B-E992-44E8-917E-7246CFD19F61
+  port: 443
+  server: us7.dexlos.com
+  sni: us7.dexlos.com
+  type: hysteria2
+- name: 🇩🇪DE_12 | ⬇️ 2.6MB/s
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ''
+  server: 51.250.25.119
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇸🇬SG_11 | ⬇️ 2.2MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 49814
+  server: linsg1.jueduibupao.top
+  sni: linsg1.jueduibupao.top
+  type: hysteria2
+- name: 🇩🇪DE_6 | ⬇️ 4.0MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 46771
+  server: de1.jueduibupao.top
+  sni: de1.jueduibupao.top
+  type: hysteria2
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇰🇷KR_5 | ⬇️ 2.7MB/s
+  password: NjVhMWE2YmVmNzg4MTcwMA==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 39206
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- name: 🇪🇪EE_2 | ⬇️ 4.1MB/s
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.98.101
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇯🇵JP_11 | ⬇️ 2.1MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 49463
+  server: linjp1.jueduibupao.top
+  sni: linjp1.jueduibupao.top
+  type: hysteria2
+- name: 美国
+  password: iWnFtzMiac
+  port: 19258
+  server: 205.185.115.223
+  sni: cloudflare.com
+  type: trojan
+- name: 🇯🇵JP_10 | ⬇️ 1.9MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 30000
+  server: linjp2.jueduibupao.top
+  sni: linjp2.jueduibupao.top
+  type: hysteria2
+- name: 🇹🇼TW_10 | ⬇️ 2.8MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 30078
+  server: tw2.jueduibupao.top
+  sni: tw2.jueduibupao.top
+  type: hysteria2
+- name: 🇹🇼TW_11 | ⬇️ 2.7MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 48279
+  server: tw3.jueduibupao.top
+  sni: tw3.jueduibupao.top
+  type: hysteria2
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇺🇸US_28 | ⬇️ 1.5MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 40022
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- name: 🇭🇰HK_15 | ⬇️ 1.8MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 42591
+  server: hk2.jueduibupao.top
+  sni: hk2.jueduibupao.top
+  type: hysteria2
+- cipher: 2022-blake3-aes-256-gcm
+  name: 🇯🇵JP_12 | ⬇️ 2.5MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNjE5OWQyNDYxZjM1MjA0OTg=:OTliYjg3ODYtNjQ2MC00NDcyLWE4OWMtYmZlODNkZmQ=
+  port: 49207
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- name: 🇩🇪DE_14 | ⬇️ 1.5MB/s
+  network: tcp
+  port: 4249
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.24.245
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇸🇬SG_13 | ⬇️ 1.6MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 39204
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- name: 🇪🇪EE_3 | ⬇️ 4.0MB/s
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.110.75
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇭🇰HK_16 | ⬇️ 2.3MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 19527
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇺🇸US_27 | ⬇️ 3.0MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 12984
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇸🇬SG_15 | ⬇️ 1.5MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 44014
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇸🇬SG_14 | ⬇️ 2.6MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 39505
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- name: 🇺🇸US_23 | ⬇️ 3.4MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 50001
+  server: lvs.jueduibupao.top
+  sni: lvs.jueduibupao.top
+  type: hysteria2
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇯🇵JP_14 | ⬇️ 2.0MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 40019
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- name: 🇺🇸US_22 | ⬇️ 2.4MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 20101
+  server: azcus1.jueduibupao.top
+  sni: azcus1.jueduibupao.top
+  type: hysteria2
+- name: 🇭🇰HK²_2|1.1MB/s|2%|NF|D+|X|KeepSucceed
+  password: BxceQaOe
+  port: 443
+  server: 58.152.46.60
+  sni: t.me%252Fripaojiedian
+  type: trojan
+- name: 🇬🇧GB_5 | ⬇️ 2.6MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 41560
+  server: uk1.jueduibupao.top
+  sni: uk1.jueduibupao.top
+  type: hysteria2
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇺🇸US_25 | ⬇️ 1.2MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 12983
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇺🇸US_29 | ⬇️ 2.5MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 39203
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇭🇰HK_18 | ⬇️ 2.9MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 39301
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- name: 🇭🇰HK_14 | ⬇️ 1.7MB/s
+  password: 99bb8786-6460-4472-a89c-bfe83dfdeef1
+  port: 50001
+  server: hk1.jueduibupao.top
+  sni: hk1.jueduibupao.top
+  type: hysteria2
+- name: 🇺🇸US²_8|1.4MB/s|0%|GPT⁺|GM|YT-RU|NF|D+|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+    short-id: 86e999a2cdc2
+  server: us01-vlr01-gmn03.vpnvezdehod.net
+  servername: hls-svod.itunes.apple.com
+  tls: true
+  type: vless
+  uuid: e9dbc178-3656-40f8-8833-5023f306ef1d
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇹🇼TW_13 | ⬇️ 1.6MB/s
+  password: NjVhMWE2YmVmNzg4MTcwMA==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 32207
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- name: 🇮🇹IT_1 | ⬇️ 4.0MB/s
+  network: tcp
+  port: 5444
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 78.159.247.74
+  servername: max.ru
+  tls: true
+  type: vless
+  uuid: 07288721-1200-4c2f-a6ce-7ef59c4f8e22
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇹🇼TW_12 | ⬇️ 2.3MB/s
+  password: NjVhMWE2YmVmNzg4MTcwMA==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 40017
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇬🇧GB_7 | ⬇️ 4.1MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 40021
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 法国
+  network: ws
+  port: 44579
+  server: 2001:bc8:32d7:302::10
+  tls: false
+  type: vmess
+  uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+  ws-opts:
+    headers:
+      Host: 2001:bc8:32d7:302::10
+    path: /?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN
+- alterId: 0
+  cipher: auto
+  name: https://t.me/zyzzzoao ⚡️_5
+  network: ws
+  port: 44579
+  server: 2001:bc8:32d7:302::10
+  tls: false
+  type: vmess
+  uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+  ws-opts:
+    headers:
+      Host: ''
+    path: /
+- alterId: 0
+  cipher: auto
+  name: https://t.me/zyzzzoao ⚡️_6
+  network: ws
+  port: 44579
+  server: 2001:bc8:32d7:302::10
+  tls: false
+  type: vmess
+  uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+  ws-opts:
+    headers:
+      Host: ''
+    path: /?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇬🇧GB_6 | ⬇️ 1.8MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 39209
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇺🇸US_26 | ⬇️ 2.2MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 12980
+  server: dafeizhu.whtjdasha.com
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 法国_1
+  network: ws
+  port: 44579
+  server: 2001:bc8:32d7:302::10
+  tls: false
+  type: vmess
+  uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+  ws-opts:
+    headers:
+      Host: 2001:bc8:32d7:302::10
+    path: /
+- cipher: chacha20-ietf-poly1305
+  name: 🇳🇱NL_2 | ⬇️ 3.2MB/s
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 45.87.175.28
+  type: ss
+- name: 🇸🇬SG_1 | ⬇️ 4.1MB/s
+  network: tcp
+  port: 10001
+  reality-opts:
+    public-key: 7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34
+    short-id: 2afe4310
+  server: 154.204.183.68
+  servername: www.icloud.com
+  tls: true
+  type: vless
+  uuid: 9c79aceb-4649-44ea-9698-b5e9ecf6d6da
+- alterId: 0
+  cipher: auto
+  name: 法国_2
+  network: ws
+  port: 44579
+  server: 2001:bc8:32d7:302::10
+  tls: false
+  type: vmess
+  uuid: 8e34e170-13ae-4892-9d20-05962acc9f84
+  ws-opts:
+    headers:
+      Host: ''
+    path: ''
+- name: 🇹🇼TW_1 | ⬇️ 3.2MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.169
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_7 | ⬇️ 3.1MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: one.cf.cdn.hyli.xyz
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_13 | ⬇️ 3.6MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.19.55.205
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: //
+- name: 🇹🇼TW_14 | ⬇️ 2.0MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.17.237.219
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: ❓Other_8 | ⬇️ 1.3MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.69
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: ❓Other_9 | ⬇️ 2.2MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.16.245.77
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: ❓Other_11 | ⬇️ 5.5MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.33
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_18 | ⬇️ 3.7MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.39
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_20 | ⬇️ 4.1MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.43
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK¹-TW⁰_2|8.3MB/s|YT-US|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.19.220.22
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK⁻¹_1|14.8MB/s|GPT⁺|YT|NF|D+|X|KeepSucceed
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.17.167.134
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK¹-TW⁰_6|4.9MB/s|YT|NF|D+|X|KeepSucceed
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 777.ai7777777.xyz
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: //
+- name: 🇭🇰HK²_11|1.6MB/s|2%|YT|NF|D+|X|KeepSucceed
+  password: BxceQaOe
+  port: 443
+  server: 58.152.46.60
+  sni: t.me/ripaojiedian
+  type: trojan
+- name: 🇭🇰HK¹-TW⁰_9|9.8MB/s|GPT|YT|NF|D+|X|KeepSucceed
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: one.cf.cdn.hyli.xyz
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: //
+- name: 🇭🇰HK¹-TW⁰_12|4.8MB/s|YT|NF|D+|X|KeepSucceed
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.103
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: https://t.me/zyzzzoao ⚡️_7
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.26.1.110
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_3 | ⬇️ 3.2MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.7
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_4 | ⬇️ 3.2MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.69
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: ❓Other_3 | ⬇️ 5.1MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: cf.130519.xyz
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: ❓Other_6 | ⬇️ 4.2MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.44
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_12 | ⬇️ 3.3MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.21
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_13 | ⬇️ 3.5MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.19.55.205
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_17 | ⬇️ 3.9MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 777.ai7777777.xyz
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_19 | ⬇️ 3.9MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.17.162.3
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_20 | ⬇️ 4.5MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.86
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_22 | ⬇️ 7.1MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: freeyx.cloudflare88.eu.org
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_24 | ⬇️ 1.3MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.16.246.188
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK¹-TW⁰_1|9.4MB/s|YT|NF|D+|X|KeepSucceed
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.65
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK¹-TW⁰_2|5.6MB/s|YT|NF|D+|X|KeepSucceed
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.205
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK²_1|1.0MB/s|2%|YT|NF|D+|X|KeepHistory
+  password: BxceQaOe
+  port: 443
+  server: 58.152.46.60
+  sni: t.me/ripaojiedian
+  type: trojan
+- name: 🇭🇰HK⁻¹_2|10.6MB/s|GPT|YT|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.19.55.205
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: //
+- name: 🇺🇸US⁻¹_1|6.5MB/s|YT|TK|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 162.159.24.131
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK⁻¹_4|0.5MB/s|YT|NF|D+|X
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.6
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK⁻¹_5|1.9MB/s|YT|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: freeyx.cloudflare88.eu.org
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK¹-TW⁰_5|7.6MB/s|GPT|YT|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.11
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK¹-TW⁰_6|5.0MB/s|GPT|YT|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.177
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK⁻¹_6|1.5MB/s|YT|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.64
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: https://t.me/zyzzzoao ⚡️_8
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.26.1.110
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: //
+- name: 🇹🇼TW_2 | ⬇️ 7.1MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: one.cf.cdn.hyli.xyz
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: //
+- name: ❓Other_1 | ⬇️ 6.7MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: cf.130519.xyz
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: //
+- name: ❓Other_2 | ⬇️ 6.0MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 162.159.24.131
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: ❓Other_3 | ⬇️ 6.7MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.19.220.22
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- cipher: 2022-blake3-aes-128-gcm
+  name: 🇨🇦CA_5 | ⬇️ 1.4MB/s
+  password: MDhhMTdjZDI0MjI2ZWRlNg==:OTliYjg3ODYtNjQ2MC00NA==
+  port: 39986
+  server: xiaofeizhu.idsduf.com
+  type: ss
+- name: 🇹🇼TW_17 | ⬇️ 5.8MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.17.162.3
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: //
+- name: ❓Other_4 | ⬇️ 3.9MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 162.159.128.253
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇯🇵JP_20 | ⬇️ 3.3MB/s
+  network: ws
+  port: 443
+  server: 104.16.46.36
+  tls: true
+  type: vless
+  uuid: e258977b-e413-4718-a3af-02d75492c349
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_18 | ⬇️ 6.0MB/s
+  network: ws
+  port: 443
+  server: cdn.204910.best
+  tls: true
+  type: vless
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  ws-opts:
+    path: /
+- name: 🇺🇸US_189 | ⬇️ 3.7MB/s
+  network: ws
+  port: 443
+  server: 162.159.45.232
+  tls: true
+  type: vless
+  uuid: 3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97
+  ws-opts:
+    path: /?ed=2560
+- name: 🇭🇰HK_27 | ⬇️ 11.0MB/s
+  network: tcp
+  port: 25135
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+    short-id: ''
+  server: chengbai02.ascwt179.com
+  servername: hk.jd.com
+  tls: true
+  type: vless
+  uuid: ab33d265-3a47-400e-b12b-8f6bf1bb3269
+- name: 🇺🇸US_190 | ⬇️ 3.0MB/s
+  network: ws
+  port: 443
+  server: 162.159.44.142
+  tls: true
+  type: vless
+  uuid: 3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97
+  ws-opts:
+    path: /?ed=2560
+- name: 🇹🇼TW_19 | ⬇️ 2.4MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.17.237.219
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_20 | ⬇️ 3.1MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.83
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_21 | ⬇️ 2.9MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 50090
+  server: 203.137.166.120
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /Telegram🇨🇳WangCai2
+- name: 🇹🇼TW_22 | ⬇️ 2.9MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.15
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: ❓Other_6 | ⬇️ 2.7MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.108
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: ❓Other_7 | ⬇️ 3.3MB/s
+  network: ws
+  port: 443
+  server: 172.64.229.205
+  tls: true
+  type: vless
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  ws-opts:
+    path: /
+- name: ❓Other_8 | ⬇️ 3.0MB/s
+  network: ws
+  port: 443
+  server: 104.19.49.192
+  tls: true
+  type: vless
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  ws-opts:
+    path: /
+- name: ❓Other_9 | ⬇️ 3.9MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.113
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇷TR_1 | ⬇️ 3.5MB/s
+  network: tcp
+  port: 6048
+  reality-opts:
+    public-key: 8KraKuYxjT-2mqg_y_yJvME2zxbc7BUDPoPvUMWNXmE
+    short-id: cdc30097
+  server: 45.141.148.89
+  servername: telewebion.com
+  tls: true
+  type: vless
+  uuid: 2f30aa44-c87c-e73d-a715-0813c68ee9b2
+- name: 🇫🇮FI_1 | ⬇️ 3.4MB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg
+    short-id: ''
+  server: 144.31.90.249
+  servername: my-rebar.shop
+  tls: true
+  type: vless
+  uuid: 154b4f23-a05d-41d1-af8f-23580510e258
+- name: 🇩🇪DE_29 | ⬇️ 6.5MB/s
+  network: ws
+  port: 80
+  server: usaa.fastlynew.hosting-ip.com
+  tls: false
+  type: vless
+  uuid: a9244690-a82e-4a7c-e257-14f20f9c02b7
+  ws-opts:
+    path: /
+- name: 🇺🇸US_191 | ⬇️ 2.7MB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg
+    short-id: 175d
+  server: 213.165.60.36
+  servername: hls-svod.itunes.apple.com
+  tls: true
+  type: vless
+  uuid: 8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e
+- name: 🇨🇭CH_1 | ⬇️ 2.3MB/s
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM
+    short-id: 2e40144ddc07e8e1
+  server: ch1.tunnely.ru
+  servername: ch1.tunnely.ru
+  tls: true
+  type: vless
+  uuid: 4685d838-99e1-4dc7-bc26-d8589d41f2a1
+- name: 🇺🇸US_192 | ⬇️ 4.6MB/s
+  network: grpc
+  port: 8443
+  server: usa99.unlockspace.org
+  tls: true
+  type: vless
+  uuid: 907b3c2c-a315-4e30-9786-8d78f14e9459
+- name: 🇳🇱NL_12 | ⬇️ 3.3MB/s
+  network: tcp
+  port: 31779
+  server: 185.221.222.202
+  tls: false
+  type: vless
+  uuid: 052df1a5-f53f-46dc-8aeb-7ed893310551
+- name: 🇹🇼TW_23 | ⬇️ 4.0MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.169
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇹🇼TW_24 | ⬇️ 5.6MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.2
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇺🇸US_193 | ⬇️ 4.3MB/s
+  network: tcp
+  port: 34045
+  reality-opts:
+    public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA
+    short-id: e8ab71d0
+  server: 38.182.101.179
+  servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me
+  tls: true
+  type: vless
+  uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a
+- name: 🇹🇼TW_26 | ⬇️ 3.1MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.10
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇺🇸US_194 | ⬇️ 2.4MB/s
+  network: grpc
+  port: 10041
+  reality-opts:
+    public-key: 4ubRpOGo1d0kaRjvob_x0t271IL1P6al2gM5slqf_Fc
+    short-id: 686c0ef0
+  server: 155.117.87.197
+  servername: www.microsoft.com
+  tls: true
+  type: vless
+  uuid: A8069A5B-E992-44E8-917E-7246CFD19F61
+- name: 🇺🇸US_195 | ⬇️ 5.4MB/s
+  password: A8069A5B-E992-44E8-917E-7246CFD19F61
+  port: 443
+  server: us5.dexlos.com
+  sni: us5.dexlos.com
+  type: hysteria2
+- name: 🇺🇸US_196 | ⬇️ 5.3MB/s
+  password: A8069A5B-E992-44E8-917E-7246CFD19F61
+  port: 443
+  server: us4.dexlos.com
+  sni: us4.dexlos.com
+  type: hysteria2
+- cipher: aes-256-cfb
+  name: 🇪🇸ES_1 | ⬇️ 1.2MB/s
+  password: XPtzA9sCug3SPR4c
+  port: 9025
+  server: 5.188.181.201
+  type: ss
+- name: 🇯🇵JP_25 | ⬇️ 2.0MB/s
+  network: grpc
+  port: 10213
+  reality-opts:
+    public-key: 4ubRpOGo1d0kaRjvob_x0t271IL1P6al2gM5slqf_Fc
+    short-id: 686c0ef0
+  server: 154.31.113.215
+  servername: www.microsoft.com
+  tls: true
+  type: vless
+  uuid: A8069A5B-E992-44E8-917E-7246CFD19F61
+- name: ❓Other_10 | ⬇️ 3.7MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.150
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: ❓Other_11 | ⬇️ 3.1MB/s
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.33
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- cipher: aes-256-cfb
+  name: 🇻🇳VN²_1|2.2MB/s|GPT⁺|YT|TK|NF|X|KeepHistory
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  port: 38388
+  server: 103.186.154.64
+  type: ss
+- name: 🇭🇰HK⁻¹_1|5.3MB/s|YT|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.72
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇳🇱NL²_2|2.3MB/s|45%|GPT⁺|TK|NF|D+|X|KeepHistory
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM
+    short-id: 2e40144ddc07e8e1
+  server: nl4.tunnely.ru
+  servername: nl4.tunnely.ru
+  tls: true
+  type: vless
+  uuid: 4685d838-99e1-4dc7-bc26-d8589d41f2a1
+- name: 🇸🇬SG²_1|15.3MB/s|20%|GPT⁺|GM|YT|TK|NF|X
+  network: tcp
+  port: 29877
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+    short-id: ''
+  server: yg2g.jiedian242.com
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 1a598715-d629-4d8c-910b-dbe5ebdc0b53
+- name: 🇳🇱NL²_3|0.8MB/s|0%|GPT⁺|YT-RU|TK|NF|X
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ''
+  server: 51.250.97.57
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇺🇸US¹-TW⁰_1|2.2MB/s|GPT|GM|YT|TK|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.26.1.110
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: //
+- name: 🇺🇸US²_1|2.0MB/s|43%|GPT⁺|YT-CN|TK|NF|X|KeepSucceed
+  password: d2a59f24-6fd3-4549-8d8c-e9f6c46405e0
+  port: 36982
+  server: de5e5fce0hy2.jzcloud.xyz
+  sni: de5e5fce0hy2.jzcloud.xyz
+  type: hysteria2
+- name: 🇭🇰HK¹-TW⁰_1|1.3MB/s|YT|NF|D+|X|KeepSucceed
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.5
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇩🇪DE²_3|4.9MB/s|10%|GPT⁺|TK|NF|X|KeepHistory
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.29.71
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇩🇪DE²_4|5.1MB/s|0%|GPT⁺|YT-RU|TK-RU|NF|D+|X|KeepHistory
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ''
+  server: 51.250.29.132
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇸🇬SG²_3|15.2MB/s|0%|GPT|GM|YT-JP|X|KeepHistory
+  network: ws
+  password: f52d0a04-94ad-4f9e-9945-4c3d43374e36
+  port: 2096
+  server: www.shopify.com
+  sni: ts888.yumige.dpdns.org
+  type: trojan
+  ws-opts:
+    path: /http://45.32.19.198:30005/
+- name: 🇧🇬BG²_1|1.4MB/s|GPT⁺|TK|NF|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: XB_Ylp1U4K2uth4jZI2v7Wru8O1cy7Hw26LwlB9QAkk
+    short-id: 6ba85179e30d4fc2
+  server: 81.161.229.122
+  servername: www.microsoft.com
+  tls: true
+  type: vless
+  uuid: 407b3941-8bf7-49d5-abc6-1ffd61e57990
+- cipher: aes-256-cfb
+  name: 🇻🇳VN²_2|1.0MB/s|GPT⁺|GM|NF|X|KeepHistory
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  port: 38388
+  server: 103.186.154.200
+  type: ss
+- name: 🇵🇱PL²_1|5.3MB/s|0%|GPT⁺|TK|NF|X|KeepHistory
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ''
+  server: 51.250.99.190
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇮🇳IN²_1|1.4MB/s|GPT⁺|GM|NF|X|KeepHistory
+  password: M7v%25w11Se%2A
+  port: 443
+  server: tttyder.wsone.icu
+  sni: tttyder.wsone.icu
+  type: trojan
+- name: 🇺🇸US²_3|4.0MB/s|33%|GPT⁺|GM|YT|TK|NF|X|KeepSucceed
+  network: tcp
+  port: 10001
+  reality-opts:
+    public-key: kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM
+    short-id: 1a24af87
+  server: 172.234.130.82
+  servername: yahoo.com
+  tls: true
+  type: vless
+  uuid: 53cd8178-2ee6-43d9-a2a7-881f287fd408
+- name: 🇷🇺RU²_1|5.2MB/s|GPT⁺|YT|TK-DE|X|KeepSucceed
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
+    short-id: 4d4421a0bac569
+  server: vkll.takovpn.ru
+  servername: eh.vk.com
+  tls: true
+  type: vless
+  uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
+- cipher: aes-256-cfb
+  name: 🇻🇳VN²_3|3.1MB/s|GPT⁺|GM|YT-US|TK|NF|X|KeepSucceed
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  port: 38388
+  server: 103.186.155.214
+  type: ss
+- name: 🇺🇸US²_5|2.2MB/s|43%|GPT⁺|GM|YT|TK|NF|X|KeepHistory
+  password: d2a59f24-6fd3-4549-8d8c-e9f6c46405e0
+  port: 25604
+  server: de5e5fce0hy4.jzcloud.xyz
+  sni: de5e5fce0hy4.jzcloud.xyz
+  type: hysteria2
+- name: 🇺🇸US²_6|2.5MB/s|43%|GPT⁺|GM|YT|TK|NF|X|KeepSucceed
+  password: d2a59f24-6fd3-4549-8d8c-e9f6c46405e0
+  port: 30956
+  server: de5e5fce0hy4.jzcloud.xyz
+  sni: de5e5fce0hy4.jzcloud.xyz
+  type: hysteria2
+- name: 🇺🇸US²_7|9.3MB/s|0%|GPT⁺|YT-CN|TK|NF|X
+  password: A8069A5B-E992-44E8-917E-7246CFD19F61
+  port: 443
+  server: us2.dexlos.com
+  sni: us2.dexlos.com
+  type: hysteria2
+- name: 🇷🇺RU²_3|4.0MB/s|TK|X|KeepHistory
+  network: tcp
+  port: 7443
+  reality-opts:
+    public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA
+    short-id: fd88bd27db4cc661
+  server: 45.139.26.152
+  servername: eh.vk.com
+  tls: true
+  type: vless
+  uuid: 7fc953d6-ae75-46fb-a970-10b57d513487
+- name: 🇭🇰HK¹-TW⁰_2|0.7MB/s|GPT⁺|YT|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.19.55.205
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇭🇰HK²_2|15.5MB/s|1%|YT|NF|D+|X
+  password: BxceQaOe
+  port: 443
+  server: 58.152.25.86
+  sni: t.me/ripaojiedian
+  type: trojan
+- name: 🇷🇺RU²_4|5.2MB/s|YT|TK|X|KeepHistory
+  network: tcp
+  port: 6666
+  reality-opts:
+    public-key: R5dLcF0g90Dl15G_w2EevzOZo8xWKdGBhUDublUAyQI
+    short-id: 5669a4b3027b30
+  server: 51.250.0.128
+  servername: vk.com
+  tls: true
+  type: vless
+  uuid: b9f46795-055e-48ea-b352-e4fb13e51006
+- name: 🇫🇮FI²_1|2.9MB/s|0%|GPT⁺|TK|NF|D+|X|KeepHistory
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: 5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg
+    short-id: ''
+  server: 45.144.53.177
+  servername: my-rebar.shop
+  tls: true
+  type: vless
+  uuid: 154b4f23-a05d-41d1-af8f-23580510e258
+- name: 🇳🇱NL²_4|5.1MB/s|52%|GPT⁺|GM|YT-CA|TK|NF|X
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: ZDHa3Fbl_IxcBtjcWmZtqtsmK1u2vA4en8zDpIkhUA8
+    short-id: 6d021e2120ed3fac
+  server: 51.250.17.199
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 839f8c01-5c6f-469f-8dbc-a8d508b28fd3
+- name: 🇯🇵JP²_2|11.2MB/s|38%|GPT|GM|YT|NF|X|KeepHistory
+  network: ws
+  password: f52d0a04-94ad-4f9e-9945-4c3d43374e36
+  port: 2096
+  server: 172.64.145.93
+  sni: ts888.yumige.dpdns.org
+  type: trojan
+  ws-opts:
+    path: /http://45.32.19.198:30005/
+- cipher: aes-256-cfb
+  name: 🇻🇳VN²_4|0.6MB/s|GPT⁺|GM|TK|NF|X|KeepHistory
+  password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+  port: 38388
+  server: 103.186.155.137
+  type: ss
+- name: 🇭🇰HK⁻¹_2|8.4MB/s|GPT|YT|NF|D+|X
+  network: ws
+  port: 443
+  server: 104.19.39.97
+  tls: true
+  type: vless
+  uuid: 5a2c16f9-e365-4080-8d38-6924c3835586
+  ws-opts:
+    path: /
+- name: 🇭🇰HK¹-TW⁰_3|4.2MB/s|YT|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 104.16.246.188
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇩🇪DE²_6|6.4MB/s|9%|GPT⁺|YT|TK|NF|X
+  network: grpc
+  port: 31095
+  reality-opts:
+    public-key: MhGXsOSUcvAVD7M1AHbHWFrV9EMbg1c7iuB_CiHNfwU
+    short-id: 5f1e
+  server: arshiavpn.sefryasad.ir
+  servername: refersion.com
+  tls: true
+  type: vless
+  uuid: dc70b58b-3d3a-401f-af6f-4a4ab1a4ee17
+- name: 🇵🇱PL²_2|5.3MB/s|0%|GPT⁺|TK|NF|X|KeepHistory
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.24.98
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇵🇱PL²_3|5.1MB/s|0%|GPT⁺|TK|NF|X|KeepSucceed
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.109.47
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇭🇰HK²_4|15.1MB/s|1%|X|KeepHistory
+  password: BxceQaOe
+  port: 443
+  server: 58.152.25.236
+  sni: t.me/ripaojiedian
+  type: trojan
+- name: 🇳🇱NL²_5|3.4MB/s|0%|GPT⁺|YT-RU|TK|NF|X|KeepHistory
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.28.99
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇭🇰HK²_5|2.4MB/s|1%|YT|NF|D+|X
+  password: BxceQaOe
+  port: 443
+  server: 58.152.46.60
+  sni: '      +[By+EbraSha]+trojan-HK+'
+  type: trojan
+- name: 🇭🇰HK²_6|2.1MB/s|1%|YT|NF|D+|X|KeepHistory
+  password: BxceQaOe
+  port: 443
+  server: 58.152.46.60
+  sni: ������+[By+DukeMehdi]+trojan-HK+
+  type: trojan
+- name: 🇩🇪DE²_8|5.5MB/s|GPT⁺|YT|TK|NF|X
+  network: tcp
+  port: 444
+  reality-opts:
+    public-key: FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw
+    short-id: 82b9ca5d8d39ba72
+  server: 151.236.15.72
+  servername: opensuse.org
+  tls: true
+  type: vless
+  uuid: faaaf16e-188e-42f2-bcc1-17feadc84fad
+- name: 🇭🇰HK²_7|12.8MB/s|1%|YT|X
+  password: BxceQaOe
+  port: 443
+  server: 58.152.25.86
+  sni: t.me/ripaojiedian
+  type: trojan
+- name: 🇳🇱NL²_6|3.5MB/s|0%|GPT⁺|TK|NF|X|KeepHistory
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0
+    short-id: d1579a8745398e34
+  server: 89.169.137.193
+  servername: eh.vk.com
+  tls: true
+  type: vless
+  uuid: 2c8adcaa-e428-4cea-9c88-e88166651ab3
+- name: 🇷🇺RU²_5|4.7MB/s|GPT⁺|YT|TK-DE|X|KeepHistory
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
+    short-id: 4d4421a0bac569
+  server: 51.250.4.181
+  servername: eh.vk.com
+  tls: true
+  type: vless
+  uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
+- name: 🇺🇸US²_12|2.0MB/s|43%|GPT⁺|GM|YT|NF|X|KeepSucceed
+  password: d2a59f24-6fd3-4549-8d8c-e9f6c46405e0
+  port: 31247
+  server: de5e5fce0hy5.jzcloud.xyz
+  sni: de5e5fce0hy5.jzcloud.xyz
+  type: hysteria2
+- name: 🇪🇪EE²_1|5.3MB/s|10%|GPT⁺|TK|NF|X|KeepHistory
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.104.85
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇩🇪DE²_9|5.5MB/s|0%|GPT⁺|YT|TK|D+|X|KeepSucceed
+  network: tcp
+  port: 443
+  reality-opts:
+    public-key: pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM
+    short-id: 2e40144ddc07e8e1
+  server: de3.tunnely.ru
+  servername: de3.tunnely.ru
+  tls: true
+  type: vless
+  uuid: 4685d838-99e1-4dc7-bc26-d8589d41f2a1
+- name: 🇩🇪DE²_10|2.2MB/s|0%|GPT⁺|YT-NL|TK-GB|NF|D+|X
+  password: b98f0328-eba1-4059-b71c-477235221b3d
+  port: 27200
+  server: hl.kaixincloud.top
+  sni: hl.kaixincloud.top
+  type: hysteria2
+- name: 🇸🇦SA²_1|2.8MB/s|100%|GPT⁺|YT-US|TK|NF|X
+  network: tcp
+  port: 15468
+  server: 185.253.118.198
+  tls: false
+  type: vless
+  uuid: b5dc6bef-11af-44d6-af98-900acaac62e0
+- name: 🇺🇸US²_14|1.8MB/s|43%|GPT⁺|YT-CN|TK|NF|X|KeepHistory
+  password: d2a59f24-6fd3-4549-8d8c-e9f6c46405e0
+  port: 38396
+  server: de5e5fce0hy2.jzcloud.xyz
+  sni: de5e5fce0hy2.jzcloud.xyz
+  type: hysteria2
+- name: 🇺🇸US²_15|1.0MB/s|43%|GPT⁺|YT-CN|TK|NF|X|KeepHistory
+  password: d2a59f24-6fd3-4549-8d8c-e9f6c46405e0
+  port: 45355
+  server: de5e5fce0hy2.jzcloud.xyz
+  sni: de5e5fce0hy2.jzcloud.xyz
+  type: hysteria2
+- name: 🇭🇰HK¹-TW⁰_4|16.7MB/s|YT|NF|D+|X|KeepHistory
+  network: ws
+  password: 5a2c16f9
+  port: 443
+  server: 172.64.229.2
+  sni: snippets.kkii.eu.org
+  type: trojan
+  ws-opts:
+    path: /
+- name: 🇺🇸US²_17|1.7MB/s|43%|GPT⁺|YT-CN|TK|NF|X|KeepSucceed
+  password: d2a59f24-6fd3-4549-8d8c-e9f6c46405e0
+  port: 46202
+  server: de5e5fce0hy3.jzcloud.xyz
+  sni: de5e5fce0hy3.jzcloud.xyz
+  type: hysteria2
+- name: 🇯🇵JP²_3|10.1MB/s|0%|GPT⁺|GM|YT|TK|NF|X
+  network: grpc
+  port: 10212
+  reality-opts:
+    public-key: 4ubRpOGo1d0kaRjvob_x0t271IL1P6al2gM5slqf_Fc
+    short-id: 686c0ef0
+  server: 154.31.112.206
+  servername: www.microsoft.com
+  tls: true
+  type: vless
+  uuid: A8069A5B-E992-44E8-917E-7246CFD19F61
+- name: 🇲🇩MD²_1|1.6MB/s|19%|GPT⁺|YT-US|TK|NF|X|KeepHistory
+  network: ws
+  port: 443
+  server: 185.235.241.75
+  tls: true
+  type: vless
+  uuid: e615a5ba-fce3-4ffa-9c86-b0327a8a107a
+  ws-opts:
+    path: /hormoz
+- name: 🇺🇸US²_19|6.0MB/s|0%|GPT⁺|GM|YT|TK|NF|X|KeepHistory
+  network: ws
+  port: 80
+  server: www.speedtest.net
+  tls: false
+  type: vless
+  uuid: ef8bff83-6d54-4e62-9b58-a2eec3f0d6a0
+  ws-opts:
+    path: /@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy
+- name: 🇫🇷FR²_3|3.1MB/s|1%|GPT⁺|YT|TK|NF|X
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.37.129.152
+  sni: 13.37.129.152
+  type: trojan
+- name: 🇺🇸US²_20|2.2MB/s|43%|GPT⁺|GM|YT|TK|NF|X|KeepSucceed
+  password: d2a59f24-6fd3-4549-8d8c-e9f6c46405e0
+  port: 37042
+  server: de5e5fce0hy5.jzcloud.xyz
+  sni: de5e5fce0hy5.jzcloud.xyz
+  type: hysteria2
+- name: 🇺🇸US²_21|10.8MB/s|0%|GPT⁺|YT-CN|TK|NF|X|KeepHistory
+  password: A8069A5B-E992-44E8-917E-7246CFD19F61
+  port: 443
+  server: us9.dexlos.com
+  sni: us9.dexlos.com
+  type: hysteria2
+- name: 🇦🇹AT²_1|3.1MB/s|30%|GPT⁺|YT-RU|TK|NF|X
+  network: tcp
+  port: 30326
+  reality-opts:
+    public-key: OGdmH9sTKUt8EYv3qd_R01Ck0KDCLQNlKiYcXrmSFkY
+    short-id: 786a49cf4b2655a0
+  server: 195.133.88.228
+  servername: yandex.ru
+  tls: true
+  type: vless
+  uuid: 52aa4a12-892d-4a29-be2b-efe1717b1dcc
+- name: trojan_node
+  password: BxceQaOe
+  port: 443
+  server: 58.152.46.60
+  sni: ������
+  type: trojan
+- cipher: chacha20-ietf
+  name: 🇭🇰HK²_12|4.7MB/s|X|KeepHistory
+  password: asd123456
+  port: 8388
+  server: 103.149.183.154
+  type: ss
+- name: 🇳🇱NL²_8|5.5MB/s|0%|GPT⁺|YT|TK|NF|X|KeepHistory
+  network: tcp
+  port: 4443
+  reality-opts:
+    public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE
+    short-id: aa7e96542880027a
+  server: s9.vless-balancer.ru
+  servername: github.com
+  tls: true
+  type: vless
+  uuid: 96605f21-f706-45ae-8eeb-ec71efbca6a2
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸US²_23|3.9MB/s|20%|GPT⁺|YT-NL|TK|NF|D+|X
+  network: tcp
+  port: 29431
+  server: 185.221.23.251
+  tls: false
+  type: vmess
+  uuid: 8b78363e-3c3a-44ab-f0d8-f13d950c8572
+- name: 🇩🇪DE²_11|5.5MB/s|0%|GPT⁺|YT-RU|TK-RU|NF|D+|X|KeepHistory
+  network: tcp
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: 6ba85179e30d4fc2
+  server: 51.250.16.178
+  servername: ads.x5.ru
+  tls: true
+  type: vless
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- name: 🇭🇰HK²_13|3.7MB/s|NF|D+|X|KeepHistory
+  password: BxceQaOe
+  port: 443
+  server: 58.152.46.60
+  sni: 58.152.46.60
+  type: trojan
