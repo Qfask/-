@@ -12,6 +12,11 @@ proxy-providers:
     path: ./providers/baofengxue.yaml
 
 proxy-groups:
+  - name: 🧩 全部节点
+    type: select
+    use:
+      - baofengxue
+
   - name: 🚀 手动选择
     type: select
     use:
@@ -26,27 +31,27 @@ proxy-groups:
 
   - name: 🇭🇰 香港
     type: select
-    filter: "(?i)HK|Hong Kong|香港"
     use:
       - baofengxue
+    filter: (?i)港|hk|hong
 
   - name: 🇯🇵 日本
     type: select
-    filter: "(?i)JP|Japan|日本"
     use:
       - baofengxue
+    filter: (?i)日|jp|japan
 
   - name: 🇸🇬 新加坡
     type: select
-    filter: "(?i)SG|Singapore|新加坡"
     use:
       - baofengxue
+    filter: (?i)新|sg|singapore
 
   - name: 🇺🇸 美国
     type: select
-    filter: "(?i)US|United States|美国"
     use:
       - baofengxue
+    filter: (?i)美|us|united
 
 rules:
   - MATCH,🚀 手动选择
